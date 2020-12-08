@@ -1,3 +1,5 @@
 my name is sarfaraz
 awan of jalalpur syedian
 tehsil/district khushab
+demo for smartgit
+demo for smartgit pull
